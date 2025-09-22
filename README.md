@@ -1,2 +1,2 @@
 # updated_portfolio
-With theme toggle switch (light default)
+Learned and implemented JavaScript, with theme toggle switch (light default)
